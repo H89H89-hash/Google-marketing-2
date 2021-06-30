@@ -1,0 +1,59 @@
+/* first row styles */
+body {
+  font-family: "Roboto", sans-serif;
+}
+li {
+  list-style: none;
+}
+
+/* second row styles */
+.my_section {
+  border: 1px solid black;
+  display: flex;
+}
+.Basic {
+  width: 500px;
+  text-align: center;
+}
+.Pro {
+  width: 500px;
+  text-align: center;
+}
+.Unli {
+  width: 500px;
+  text-align: center;
+}
+
+.google {
+  line-height: 0.2;
+}
+.span1 {
+  color: blue;
+  font-family: "Roboto", sans-serif;
+  font-size: 70px;
+}
+.span2 {
+  color: red;
+  font-family: "Roboto", sans-serif;
+  font-size: 70px;
+}
+.span3 {
+  color: yellow;
+  font-family: "Roboto", sans-serif;
+  font-size: 70px;
+}
+.span5 {
+  color: yellowgreen;
+  font-family: "Roboto", sans-serif;
+  font-size: 70px;
+}
+.span6 {
+  color: red;
+  font-family: "Roboto", sans-serif;
+  font-size: 70px;
+}
+.span7 {
+  color: rgb(83, 83, 83);
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+}
